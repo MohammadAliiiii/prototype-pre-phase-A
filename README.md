@@ -1,6 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadAliiiii/prototype-pre-phase-A/main/PhoneSat.png" alt="PhoneSat Prototype" width="400" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PhoneSat Prototype Image</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 flex items-center justify-center min-h-screen">
+  <div class="flex justify-center my-6">
+    <img
+      src="https://raw.githubusercontent.com/MohammadAliiiii/prototype-pre-phase-A/main/PhoneSat.png"
+      alt="PhoneSat Prototype"
+      class="w-96 max-w-full rounded-lg shadow-lg"
+    />
+  </div>
+</body>
+</html>
+
 
 
 ### Construction:
