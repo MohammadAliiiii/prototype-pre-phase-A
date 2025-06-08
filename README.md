@@ -1,6 +1,6 @@
-### Construction of Your Little PhoneSat
+### Construction:
 
-Your PhoneSat is basically a **small satellite prototype built around a microcontroller and sensors**, using:
+This PhoneSat is basically a **small satellite prototype built around a microcontroller and sensors**, using:
 
 * **Microcontroller:** Arduino (UNO or similar) acts as the “brain” to read sensor data and control outputs.
 * **Sensors:** Temperature, light, orientation (tilt), solar voltage, and battery voltage sensors connected to analog input pins (A0 to A5). These provide environmental data crucial for a satellite's health and function.
@@ -58,7 +58,7 @@ Your PhoneSat is basically a **small satellite prototype built around a microcon
 
 ### Why This Matters for CubeSats
 
-Your PhoneSat mimics a **basic CubeSat mission’s key functions**:
+This PhoneSat mimics a **basic CubeSat mission’s key functions**:
 
 * Monitoring critical environmental and power parameters.
 * Managing alerts to protect satellite health.
@@ -70,5 +70,5 @@ The overall design reflects how CubeSats must integrate sensors, power, communic
 ---
 
 **Summary in simple terms:**
-Your PhoneSat is a small Arduino-based satellite prototype that reads environmental data (temp, light, orientation, power), shows it on an LCD, alerts on problems with buzzer and LEDs, and lets you switch screens with a button—just like a real CubeSat monitors itself and communicates status back to operators.
+This PhoneSat is a small Arduino-based satellite prototype that reads environmental data (temp, light, orientation, power), shows it on an LCD, alerts on problems with buzzer and LEDs, and lets you switch screens with a button—just like a real CubeSat monitors itself and communicates status back to operators.
 
