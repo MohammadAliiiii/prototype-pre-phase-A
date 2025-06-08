@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/MohammadAliiiii/prototype-pre-phase-A/main/PhoneSat.png" 
     alt="PhoneSat Prototype" 
     width="400" 
-    style="border: 2px solid #444; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 10vw;"
+    style="border: 2px solid #444; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100vw;"
   />
   <p style="font-style: italic; color: #555; margin-top: 8px;">
     Figure: PhoneSat Prototype - Core CubeSat Subsystem Demo
