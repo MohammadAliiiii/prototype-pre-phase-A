@@ -1,6 +1,6 @@
 <!-- README.md START -->
 
-<h1 align="center">🛰️ PhoneSat: CubeSat Subsystem Prototype</h1>
+<h1 align="center">🛰️ Prototype (Pre-Phase A)</h1>
 
 <div align="center" style="margin: 20px 0;">
   <img 
