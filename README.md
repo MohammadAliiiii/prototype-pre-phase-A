@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadAliiiii/prototype-pre-phase-A/main/PhoneSat.png" alt="PhoneSat Prototype" width="400" />
+</p>
+
+
 ### Construction:
 
 This PhoneSat is basically a **small satellite prototype built around a microcontroller and sensors**, using:
