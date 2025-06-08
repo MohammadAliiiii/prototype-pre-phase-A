@@ -90,7 +90,7 @@ By simulating a satellite’s **Command and Data Handling (CDH)** and **Electric
 
 ## 📝 Summary (in Simple Words)
 
-> Your PhoneSat is like a mini space satellite you can hold in your hand. It checks things like temperature, sunlight, and how tilted it is. It shows that info on a screen, warns with lights and sound if something is wrong, and lets you switch views with a button—just like a real satellite that keeps itself safe and sends info back to Earth.
+> This PhoneSat is like a mini space satellite you can hold in your hand. It checks things like temperature, sunlight, and how tilted it is. It shows that info on a screen, warns with lights and sound if something is wrong, and lets you switch views with a button—just like a real satellite that keeps itself safe and sends info back to Earth.
 
 ---
 
